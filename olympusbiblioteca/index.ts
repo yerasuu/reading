@@ -1,5 +1,3 @@
-/// <reference path="./manga-provider.d.ts" />
-
 class Provider {
   private api = "https://dashboard.olympusbiblioteca.com/api";
 
