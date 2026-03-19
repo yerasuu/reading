@@ -1,0 +1,13 @@
+{
+  "id": "olympusbiblioteca",
+  "name": "Olympus Biblioteca",
+  "description": "Proveedor de manga y cómics de Olympus Biblioteca.",
+  "manifestURI": "https://raw.githubusercontent.com/tu-usuario/seanime-extensions/master/src/OlympusBiblioteca/manifest.json",
+  "version": "1.0.0",
+  "author": "jabifx",
+  "icon": "https://raw.githubusercontent.com/tu-usuario/seanime-extensions/master/src/OlympusBiblioteca/icon.png",
+  "type": "manga-provider",
+  "language": "typescript",
+  "lang": "es",
+  "payloadURI": "https://raw.githubusercontent.com/tu-usuario/seanime-extensions/master/src/OlympusBiblioteca/index.ts"
+}
